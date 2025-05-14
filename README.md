@@ -17,14 +17,23 @@ To provide a **comparative cost analysis** between hydrogen and battery electric
 
 ---
 
-## 📁 Datasets Used
+Due to the limited availability of public datasets comparing hydrogen vs. electric buses, I constructed a sample dataset using:
 
-| Dataset | Description |
-|--------|-------------|
-| `pm25_deaths.csv` | Year-wise deaths attributed to PM2.5 exposure (2008–2019) |
-| `electric_car_sales.csv` | Electric car sales from 2012 to 2024 (in millions) |
-| `initial_vehicle_costs.csv` | Initial cost of hydrogen, electric, diesel, and hybrid buses (in $1000s) |
-| `cost_per_km.csv` | Cost per kilometer for various vehicle types |
+Estimated market values
+
+Published research insights
+
+Logical assumptions based on real-world trends
+
+The dataset includes:
+
+Annual deaths due to PM2.5 (2008–2019)
+
+Electric vehicle sales (2012–2024)
+
+Initial cost of various vehicle types
+
+Cost per kilometer of operation for each type
 
 
 ---
